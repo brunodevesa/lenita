@@ -1,2 +1,0 @@
-# lenita
-Lenita app
