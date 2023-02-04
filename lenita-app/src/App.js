@@ -8,19 +8,11 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p class="lenita-text">
            <code>First Lenita App</code>
-        </p>
-        <p>
-           <code>Edit src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        </p>       
       </header>
+      <main>
+
+      </main>
     </div>
   );
 }
